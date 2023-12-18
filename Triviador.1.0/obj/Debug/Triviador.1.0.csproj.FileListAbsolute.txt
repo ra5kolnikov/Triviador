@@ -1,0 +1,16 @@
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/bin/Debug/Triviador.1.0.exe
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/bin/Debug/Triviador.1.0.pdb
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/actool/_PartialAppManifest.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/_ProcessedContentPath.items
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/Triviador.1.0.csproj.AssemblyReference.cache
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/Triviador.1.0.csproj.CoreCompileInputs.cache
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/Triviador.1.0.exe
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/Triviador.1.0.pdb

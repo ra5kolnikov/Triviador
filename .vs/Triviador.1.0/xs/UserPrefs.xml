@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5861CC90-715B-4E33-AEF1-E70AEB4E02BA}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Triviador.1.0/AppDelegate.cs">
+    <Files>
+      <File FileName="Triviador.1.0/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Triviador.1.0" expanded="True">
+            <Node name="Triviador.1.0" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Triviador.1.0 FirstBuild="True" PreferredExecutionTarget="MyMacID" />
+</Properties>

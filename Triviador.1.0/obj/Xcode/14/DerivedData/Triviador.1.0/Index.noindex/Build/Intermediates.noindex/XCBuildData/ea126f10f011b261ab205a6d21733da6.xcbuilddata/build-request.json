@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "794bbc1b7b689d7d0e6a2a2cb265a43c1144aee0318438f7b3faa1ff91ff39f4"
+    }
+  ],
+  "containerPath" : "/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Xcode/14/Triviador.1.0.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Xcode/14/DerivedData/Triviador.1.0/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Xcode/14/DerivedData/Triviador.1.0/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Xcode/14/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Xcode/14/DerivedData/Triviador.1.0/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Xcode/14/DerivedData/Triviador.1.0/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Xcode/14/DerivedData/Triviador.1.0/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Xcode/14/DerivedData/Triviador.1.0/Build/Products",
+      "pchPath" : "/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Xcode/14/DerivedData/Triviador.1.0/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

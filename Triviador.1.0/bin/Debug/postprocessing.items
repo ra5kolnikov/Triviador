@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Triviador.1.0.app/Contents/MacOS/Triviador.1.0">
+      <BCSymbolMapName>Triviador.1.0.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Triviador.1.0.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>Triviador.1.0.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
