@@ -25,12 +25,19 @@ namespace Triviador.Views
 
         partial void ApplyButtonPressed(AppKit.NSButton sender)
         {
-            ViewModel.CurrentPlayer.Nickname = NickNameTF.StringValue;
-
-            var storyboard = NSStoryboard.FromName("Main", null);
-            var lobbyVC = storyboard.InstantiateControllerWithIdentifier("LobbyView") as LobbyView;
-            lobbyVC?.ViewModel.UpdatePlayer(ViewModel.CurrentPlayer);
-            View.Window.ContentViewController = lobbyVC;
+            if (NickNameTF.StringValue != "")
+            {
+                ViewModel.CurrentPlayer.Nickname = NickNameTF.StringValue;
+                var storyboard = NSStoryboard.FromName("Main", null);
+                var lobbyVC = storyboard.InstantiateControllerWithIdentifier("LobbyView") as LobbyView;
+                lobbyVC?.ViewModel.UpdatePlayer(ViewModel.CurrentPlayer);
+                View.Window.ContentViewController = lobbyVC;
+            } else {
+                NSAlert alert = new NSAlert();
+                alert.MessageText = "Please eneter a valid player name!";
+                alert.AddButton("Apply");
+                alert.RunModal();
+            }
         }
 
         public override NSObject RepresentedObject

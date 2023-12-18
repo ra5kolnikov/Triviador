@@ -1,0 +1,339 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3C5349900000000000000000 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1EED96300000000000000000 /* Cocoa.framework */; };
+		165A47E00000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 92C874000000000000000000 /* Foundation.framework */; };
+		1290C1400000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2716CB900000000000000000 /* Assets.xcassets */; };
+		1FCD28200000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E3669A00000000000000000 /* Info.plist */; };
+		FE9B71000000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = F37701000000000000000000 /* Entitlements.plist */; };
+		8F2F09000000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 108A75300000000000000000 /* Main.storyboard */; };
+		14DE1F100000000000000000 /* LobbyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BCF17A00000000000000000 /* LobbyView.m */; };
+		1A47D5100000000000000000 /* RegisterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C867DE00000000000000000 /* RegisterView.m */; };
+		10BA6D200000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 168DD6600000000000000000 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AFC89B000000000000000000 /* Triviador.1.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Triviador.1.0.app"; path = "Triviador.1.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1EED96300000000000000000 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Cocoa.framework"; path = "System/Library/Frameworks/Cocoa.framework"; sourceTree = SDKROOT; };
+		92C874000000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		2716CB900000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		1E3669A00000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		F37701000000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		108A75300000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
+		22E0D7B00000000000000000 /* LobbyView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "LobbyView.h"; path = "Views/LobbyView.h"; sourceTree = "<group>"; };
+		3BCF17A00000000000000000 /* LobbyView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "LobbyView.m"; path = "Views/LobbyView.m"; sourceTree = "<group>"; };
+		39E795500000000000000000 /* RegisterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "RegisterView.h"; path = "Views/RegisterView.h"; sourceTree = "<group>"; };
+		2C867DE00000000000000000 /* RegisterView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "RegisterView.m"; path = "Views/RegisterView.m"; sourceTree = "<group>"; };
+		924404000000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		168DD6600000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		124642800000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3C5349900000000000000000 /* Cocoa.framework in Frameworks */,
+				165A47E00000000000000000 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		247856A00000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				83B0BB000000000000000000 /* Triviador.1.0 */,
+				A13694000000000000000000 /* Frameworks */,
+				1AAEB3600000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1AAEB3600000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AFC89B000000000000000000 /* Triviador.1.0.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		A13694000000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				92C874000000000000000000 /* Foundation.framework */,
+				1EED96300000000000000000 /* Cocoa.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		83B0BB000000000000000000 /* Triviador.1.0 */ = {
+			isa = PBXGroup;
+			children = (
+				924404000000000000000000 /* AppDelegate.h */,
+				168DD6600000000000000000 /* AppDelegate.m */,
+				2716CB900000000000000000 /* Assets.xcassets */,
+				F37701000000000000000000 /* Entitlements.plist */,
+				1E3669A00000000000000000 /* Info.plist */,
+				108A75300000000000000000 /* Main.storyboard */,
+				30244EA00000000000000000 /* Views */,
+			);
+			name = "Triviador.1.0";
+			sourceTree = "<group>";
+		};
+		30244EA00000000000000000 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				22E0D7B00000000000000000 /* LobbyView.h */,
+				3BCF17A00000000000000000 /* LobbyView.m */,
+				39E795500000000000000000 /* RegisterView.h */,
+				2C867DE00000000000000000 /* RegisterView.m */,
+			);
+			name = "Views";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3146C4200000000000000000 /* Triviador.1.0 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B7CE5600000000000000000 /* Build configuration list for PBXNativeTarget "Triviador.1.0" */;
+			buildPhases = (
+				176410600000000000000000 /* Sources */,
+				124642800000000000000000 /* Frameworks */,
+				128493D00000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Triviador.1.0";
+			productName = "Triviador.1.0";
+			productReference = AFC89B000000000000000000 /* Triviador.1.0.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		26A932B00000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 1BF2C8900000000000000000 /* Build configuration list for PBXProject "Triviador.1.0" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 247856A00000000000000000;
+			productRefGroup = 1AAEB3600000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3146C4200000000000000000 /* Triviador.1.0 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		128493D00000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1290C1400000000000000000 /* Assets.xcassets in Resources */,
+				1FCD28200000000000000000 /* Info.plist in Resources */,
+				FE9B71000000000000000000 /* Entitlements.plist in Resources */,
+				8F2F09000000000000000000 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		176410600000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14DE1F100000000000000000 /* LobbyView.m in Sources */,
+				1A47D5100000000000000000 /* RegisterView.m in Sources */,
+				10BA6D200000000000000000 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3B890D900000000000000000 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		17D17A200000000000000000 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		165D4B700000000000000000 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.companyname.Triviador-1-0";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		947A6F000000000000000000 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.companyname.Triviador-1-0";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1BF2C8900000000000000000 /* Build configuration list for PBXProject "Triviador.1.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B890D900000000000000000 /* Debug */,
+				17D17A200000000000000000 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		3B7CE5600000000000000000 /* Build configuration list for PBXNativeTarget "Triviador.1.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				165D4B700000000000000000 /* Debug */,
+				947A6F000000000000000000 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 26A932B00000000000000000 /* Project object */;
+}

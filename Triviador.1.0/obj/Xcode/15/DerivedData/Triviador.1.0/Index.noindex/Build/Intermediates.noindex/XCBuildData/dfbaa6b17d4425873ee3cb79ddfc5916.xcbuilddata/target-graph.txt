@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Triviador.1.0' in project 'Triviador.1.0' (no dependencies)
