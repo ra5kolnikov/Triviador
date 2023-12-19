@@ -9,11 +9,11 @@ namespace Triviador.Views
 {
 	public partial class RegisterView : NSViewController
 	{
-        public PlayerViewModel ViewModel { get; set; }
+        public RegisterViewModel ViewModel { get; set; }
 
         public RegisterView(IntPtr handle) : base(handle)
         {
-            ViewModel = new PlayerViewModel();
+            ViewModel = new RegisterViewModel();
         }
 
         public override void ViewDidLoad()

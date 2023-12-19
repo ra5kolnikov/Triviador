@@ -20,17 +20,20 @@ namespace Triviador.Views
 
 		[Action ("BackButtonPressed:")]
 		partial void BackButtonPressed (AppKit.NSButton sender);
+
+		[Action ("StartGameButtonPressed:")]
+		partial void StartGameButtonPressed (AppKit.NSButton sender);
 		
 		void ReleaseDesignerOutlets ()
 		{
-			if (LobbyTF != null) {
-				LobbyTF.Dispose ();
-				LobbyTF = null;
-			}
-
 			if (BackButton != null) {
 				BackButton.Dispose ();
 				BackButton = null;
+			}
+
+			if (LobbyTF != null) {
+				LobbyTF.Dispose ();
+				LobbyTF = null;
 			}
 		}
 	}

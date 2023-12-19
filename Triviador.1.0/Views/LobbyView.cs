@@ -9,11 +9,11 @@ namespace Triviador.Views
 {
 	public partial class LobbyView : NSViewController
 	{
-        public PlayerViewModel ViewModel { get; set; }
+        public LobbyViewModel ViewModel { get; set; }
 
 		public LobbyView (IntPtr handle) : base (handle)
 		{
-            ViewModel = new PlayerViewModel();
+            ViewModel = new LobbyViewModel();
         }
 
         public override void ViewDidLoad()
@@ -28,6 +28,13 @@ namespace Triviador.Views
             var storyboard = NSStoryboard.FromName("Main", null);
             var previousVC = storyboard.InstantiateControllerWithIdentifier("RegisterView") as RegisterView;
             View.Window.ContentViewController = previousVC;
+        }
+
+        partial void StartGameButtonPressed(AppKit.NSButton sender)
+        {
+            var storyboard = NSStoryboard.FromName("Main", null);
+            var nextVC = storyboard.InstantiateControllerWithIdentifier("MapView") as MapView;
+            View.Window.ContentViewController = nextVC;
         }
     }
 }

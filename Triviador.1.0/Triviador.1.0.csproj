@@ -230,7 +230,7 @@
     <Compile Include="Views\LobbyView.designer.cs">
       <DependentUpon>LobbyView.cs</DependentUpon>
     </Compile>
-    <Compile Include="ViewModels\PlayerViewModel.cs" />
+    <Compile Include="ViewModels\RegisterViewModel.cs" />
     <Compile Include="Models\Player.cs" />
     <Compile Include="Models\Client.cs" />
     <Compile Include="Models\TriviadorMap.cs" />
@@ -238,6 +238,11 @@
     <Compile Include="Models\GameSession.cs" />
     <Compile Include="Models\Server.cs" />
     <Compile Include="Controllers\TriviadorApiController.cs" />
+    <Compile Include="Views\MapView.cs" />
+    <Compile Include="Views\MapView.designer.cs">
+      <DependentUpon>MapView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\LobbyViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Main.storyboard" />

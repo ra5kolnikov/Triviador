@@ -2,28 +2,39 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Triviador.1.0/Models/Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Triviador.1.0/Views/MapView.cs">
     <Files>
       <File FileName="Triviador.1.0/AppDelegate.cs" />
-      <File FileName="Triviador.1.0/Views/RegisterView.cs" Line="35" Column="21" />
+      <File FileName="Triviador.1.0/Views/RegisterView.cs" Line="43" Column="37" />
       <File FileName="Triviador.1.0/Views/RegisterView.designer.cs" />
       <File FileName="Triviador.1.0/Info.plist" />
-      <File FileName="Triviador.1.0/Views/LobbyView.cs" />
+      <File FileName="Triviador.1.0/Views/LobbyView.cs" Line="12" Column="31" />
       <File FileName="Triviador.1.0/Views/LobbyView.designer.cs" />
-      <File FileName="Triviador.1.0/ViewModels/PlayerViewModel.cs" />
-      <File FileName="Triviador.1.0/Models/Player.cs" Line="4" Column="20" />
+      <File FileName="Triviador.1.0/ViewModels/PlayerViewModel.cs" Line="9" Column="5" />
+      <File FileName="Triviador.1.0/Models/Player.cs" Line="27" Column="10" />
       <File FileName="Triviador.1.0/Main.cs" />
+      <File FileName="Triviador.1.0/Models/Client.cs" Line="20" Column="38" />
+      <File FileName="Triviador.1.0/Models/TriviadorMap.cs" Line="116" Column="68" />
+      <File FileName="Triviador.1.0/Models/Question.cs" Line="17" Column="1" />
+      <File FileName="Triviador.1.0/Models/GameSession.cs" Line="26" Column="29" />
+      <File FileName="Triviador.1.0/Models/Server.cs" Line="23" Column="1" />
+      <File FileName="Triviador.1.0/Controllers/TriviadorApiController.cs" Line="51" Column="33" />
+      <File FileName="Triviador.1.0/Views/ViewController.cs" Line="11" Column="3" />
+      <File FileName="Triviador.1.0/Views/ViewController.designer.cs" Line="5" Column="50" />
+      <File FileName="Triviador.1.0/MapView.cs" Line="1" Column="1" />
+      <File FileName="Triviador.1.0/packages.config" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Triviador.1.0" expanded="True">
+          <Node name="Triviador.1.0">
             <Node name="Triviador.1.0" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Player.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="ViewModels" expanded="True" />
-              <Node name="Views" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MapView.cs" expanded="True" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

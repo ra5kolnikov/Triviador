@@ -108,6 +108,7 @@
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/bin/Debug/Swashbuckle.AspNetCore.SwaggerGen.pdb
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/bin/Debug/Swashbuckle.AspNetCore.SwaggerGen.xml
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/Triviador.1.0.csproj.AssemblyReference.cache
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/Triviador.1.0.csproj.CopyComplete
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Microsoft.AspNetCore.Authentication.Abstractions.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Microsoft.AspNetCore.Authentication.Core.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Microsoft.AspNetCore.Authorization.stamp
@@ -145,17 +146,22 @@
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Microsoft.Extensions.WebEncoders.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Microsoft.Net.Http.Headers.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Microsoft.OpenApi.stamp
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/mscorlib.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Newtonsoft.Json.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Swashbuckle.AspNetCore.Swagger.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Swashbuckle.AspNetCore.SwaggerGen.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Swashbuckle.AspNetCore.SwaggerUI.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Buffers.stamp
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Core.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Diagnostics.DiagnosticSource.stamp
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.stamp
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Drawing.Common.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Net.Http.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Runtime.CompilerServices.Unsafe.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Text.Encodings.Web.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Text.Json.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Threading.Tasks.Extensions.stamp
+/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Xamarin.Mac.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Microsoft.Win32.Primitives.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Microsoft.Win32.Registry.AccessControl.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/Microsoft.Win32.Registry.stamp
@@ -296,4 +302,3 @@
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Xml.XPath.XDocument.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Xml.XPath.XmlDocument.stamp
 /Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/resourcestamps/System.Xml.Xsl.Primitives.stamp
-/Users/vitalij/Desktop/VisualStudio2022/Triviador.1.0/Triviador.1.0/obj/Debug/Triviador.1.0.csproj.CopyComplete

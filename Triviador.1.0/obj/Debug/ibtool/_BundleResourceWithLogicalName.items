@@ -13,6 +13,12 @@
       <LogicalName>Main.storyboardc/yNN-RB-MdG-view-uZR-i9-fOx.nib</LogicalName>
       <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/YL5-DW-04e-view-r1C-bh-x5W.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/YL5-DW-04e-view-r1C-bh-x5W.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/MainMenu.nib">
       <Optimize>false</Optimize>
       <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
@@ -29,6 +35,12 @@
       <Optimize>false</Optimize>
       <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
       <LogicalName>Main.storyboardc/LobbyView.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/MapView.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/MapView.nib</LogicalName>
       <OriginalItemSpec>obj/Debug/ibtool/Main.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/Main.storyboardc/Info.plist">
